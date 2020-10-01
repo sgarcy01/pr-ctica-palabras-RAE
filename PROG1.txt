@@ -1,0 +1,10 @@
+lampara https://dle.rae.es/l%C3%A1mpara
+fregona https://dle.rae.es/freg%C3%B3n
+coche https://dle.rae.es/coche
+avion https://dpej.rae.es/lema/avi%C3%B3n
+agua https://dpej.rae.es/dpej-lemas/agua
+helicoptero https://dpej.rae.es/lema/helic%C3%B3ptero
+ejército https://dpej.rae.es/dpej-lemas/ej%C3%A9rcito
+escuela https://dpej.rae.es/dpej-lemas/escuela
+profesor https://dpej.rae.es/dpej-lemas/profesor
+embarcación https://dpej.rae.es/dpej-lemas/embarcaci%C3%B3n
